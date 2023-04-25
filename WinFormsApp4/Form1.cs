@@ -85,6 +85,41 @@ namespace WinFormsApp4
                     panelCalc.Controls.Add(b);
                     lista.Add(b);
                 }
+                
+            /* OPCION 2
+            //Creación de los botones
+
+            var bAdd = new Button();
+            bAdd.Text = botones["SumAr"].ToString(); //Muestra el valor Suma
+
+            bAdd.Location = new Point(90, 0);
+            panelCalc.Controls.Add(bAdd);
+
+            lista.Add(bAdd);
+
+            var bResta = new Button();
+            bResta.Text = botones["RESTAr"].ToString(); //Muestra el valor Resta
+
+            bResta.Location = new Point(180, 0);
+            panelCalc.Controls.Add(bResta);
+
+            lista.Add(bResta);
+
+            var bMulti = new Button();
+            bMulti.Text = botones["MultIPlicacion"].ToString(); //Muestra el valor Multiplicar
+
+            bMulti.Location = new Point(180, 20);
+            panelCalc.Controls.Add(bMulti);
+
+            lista.Add(bMulti);
+
+            var bDiv = new Button();
+            bDiv.Text = botones["DivISion"].ToString(); //Muestra el valor Dividir
+
+            bDiv.Location = new Point(270, 40);
+            panelCalc.Controls.Add(bDiv);
+
+            lista.Add(bDiv); */
 
 
             }
