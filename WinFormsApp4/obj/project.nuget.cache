@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ydueRdm0DzGu3o069kcyptAqNvMeo6oGXbRN6ME7ZipnQ1BgcYp4MMQk2KjDeIUXodJwOA/GU2rdD7XCKy7oug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xsabr\\Downloads\\App1\\WinFormsApp4\\WinFormsApp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xsabr\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\xsabr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
