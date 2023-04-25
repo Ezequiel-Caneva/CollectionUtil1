@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "App1/1.0.0": {
+        "dependencies": {
+          "CalcCore": "1.0.0",
+          "CalcSuperPower": "1.0.0"
+        },
+        "runtime": {
+          "App1.dll": {}
+        }
+      },
+      "Cal.core.Interfaces/1.0.0": {
+        "runtime": {
+          "Cal.core.Interfaces.dll": {}
+        }
+      },
+      "CalcCore/1.0.0": {
+        "dependencies": {
+          "Cal.core.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "CalcCore.dll": {}
+        }
+      },
+      "CalcSuperPower/1.0.0": {
+        "dependencies": {
+          "Cal.core.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "CalcSuperPower.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cal.core.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalcCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalcSuperPower/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
